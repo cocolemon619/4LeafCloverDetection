@@ -1,0 +1,9 @@
+# .env
+.env*
+
+# .python cache
+backend/__pycache__/
+
+# img
+*.png
+*.jpg
